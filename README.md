@@ -1,6 +1,6 @@
 # BitlyBot
 Bitly Short link generator Bot 
-<img src="https://tg-link.herokuapp.com/dl/0/AgADwqsxG01vyVY.jpg"  >
+
 
 ## Configs
 
